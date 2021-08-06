@@ -1,0 +1,15 @@
+section.results {
+	position: relative; 
+	padding-top: 42px;
+}
+
+section.results > ol {
+	position: static;
+}
+
+section.results > ol > li:first-child {
+	position: absolute; 
+	top: 0; 
+	left: 0; 
+	width: 100%;
+}
