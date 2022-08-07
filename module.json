@@ -2,10 +2,10 @@
     "id": "sticky-rolltable-header",
     "title": "Sticky Rolltable Header",
     "description": "Header of rolltable should not scroll with entries! This module fix this behavior.",
-    "version": "1.1",
+    "version": "0.0.1",
     "compatibility": {
-        "minimum": 9,
-        "verified": "0.10.276",
+        "minimum": "10.276",
+        "verified": "10.276",
         "maximum": 11
     },
     "authors": [
@@ -19,5 +19,5 @@
     ],
     "url": "https://github.com/Daimakaicho/sticky-rolltable-header",
     "manifest": "https://github.com/Daimakaicho/sticky-rolltable-header/releases/latest/download/module.json",
-    "download": "https://github.com/Daimakaicho/sticky-rolltable-header/releases/download/v1.1/module.zip"
+    "download": "https://github.com/Daimakaicho/sticky-rolltable-header/releases/download/v0.0.1/module.zip"
 }
