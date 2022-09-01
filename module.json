@@ -4,11 +4,10 @@
     "title": "Sticky Rolltable Header",
     "description": "Header of rolltable should not scroll with entries! This module fix this behavior.",
     "version": "0.0.1",
-    "minimumCoreVersion": "9",    
-    "compatibleCoreVersion": "9",
+    "minimumCoreVersion": "10", 
     "compatibility": {
-        "minimum": "9",
-        "verified": "10.276"
+        "minimum": "10",
+        "verified": "10.283"
     },
     "authors": [
         {
